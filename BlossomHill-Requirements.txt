@@ -5,20 +5,6 @@ Rationale:
 Originator:
 Comments: [M814-ModuleChair] Copy this template below to add new requirements.
 
-REQ-ID: 1
-Description: Create appointment 
-Type: Functional
-Rationale:To ensure that appointments are stored and can be monitored and managed more effectively.
-Originator: Carol
-
-REQ-ID: 2
-Description: Amend existing appointment
-Type: Functional
-Rationale:To rearrange an existing appointment as the time and/or date are no longer suitable for the patient or therapist to avoid any missed appointments.
-Originator: Carol
-
-Comments: [FranM28-Fran Moore] Adding requirements to answer Question 4 Part b
-
 REQ-ID: 3
 Description: A doctor must have a means to book an appointment on the system independently from patients.
 Type: Functional
@@ -66,20 +52,6 @@ Originator: Neil
 Comments: [jg8946-John Gribble] Merged my previous requirement 
 (The system shall allow a physical monetary transaction to be recorded) to avoid redundancy.
 
-REQ-ID: 11
-Description: Keep track of all currently booked appointments.
-Type: Functional requirement
-Rationale: To eliminate the paper-based tracking of appointments. For therapists to see when they have appointments and for receptionists to see availability etc.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added first potential functional requirement in repsonse to Q4.
-
-REQ-ID: 12
-Description: Present available appointments over a given period of time in the future, for a specific therapist.
-Type: Functional requirement
-Rationale: To provide relevant options when scheduling new appointments.
-Originator: Carol
-Comments: [lucasw21-Lucas Walker] Added second potential functional requirement in repsonse to Q4.
-
 REQ-ID: 13
 Description: issue patient with an appointments card 
 Type: Functional requirement
@@ -121,13 +93,6 @@ Type: Functional Requirement
 Rationale: To save time finding a patient's records before treatment can start.
 Originator: Carol
 Comments: [Edgar Odinah] Addition of requirement #18.
-
-REQ-ID: 19
-Description: Delete existing appointment
-Type: Functional requirement
-Rationale: The patient realises that the appointment conflicts with their schedule but does not know yet their availability
-Originator: Carol
-Comments: [Regan Greeff] Added first potential functional requirement in response to Q4
 
 REQ-ID: 20
 Description: Export statistics on patient and therapy usage
