@@ -9,4 +9,4 @@ Comments: [lucasw21 – Lucas Walker] Added NFR #5.
 the Fit Criterion specifies that schedules should be available in 15 seconds but never more than 20 seconds. Perhaps saying the minimum time in 90% of report requests
 is 5 seconds is more achiivable? This allows also for larger files being output as patients build up a history with the clinic and more data needs to be downloaded.
 [TB] Depends on what the report is and what the report contains. If this is simply access to patient records this may be appropriate. How would this feature with the network and latency?
-
+[JL] May need to adjust Fit Criterion to scale with database size, 2 seconds may not be long enough as project scales. Potential clean up requirement for future efficacy?
