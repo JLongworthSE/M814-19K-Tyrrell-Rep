@@ -2,7 +2,8 @@ REQ-ID: 11
 Description: The system must use similar language and vocabulary to existing business processes.
 Type: Non-Functional
 Rationale: Minimise training and work required for implementation.
-Fit Criterion: Users can identify areas of application that relate to existing business processes.
+Fit Criterion: Users can identify areas of application that relate to existing business processes. A test quiz must be devised which clearly shows that users understand the business processes featured in the application without direction.
 Originator: Carol, the Office Manager
 Comments: [JL] Josh Longworth - Adding requirement 4.
 [JL] Need to gather all business vocabulary relating to business processes, appointment, patient record form etc.
+[JL] Fit criteria could be more specific.
