@@ -117,3 +117,19 @@ Fit Criterion:The data stored for each patient will match the records for each i
 Originator:Business Manager
 Comments: [Tom Baker] Additiona requirement Q4
 
+<<<<<<< HEAD
+=======
+REQ-ID: 23
+Description: The system must process and store appointment instance information.
+Type: Functional requirement
+Rationale: To keep track of the schedule all appointments must be stored in the system, this also allows for further development of audit reporting and missed appointment sanctions.
+Originator: Carol
+Comments: [Josh Longworth] Added functional requirement for Q4
+
+REQ-ID: 24
+Description: The system must produce audit material showcasing appointment conclusion information for given period.
+Type: Functional requirement
+Rationale: This allows for the collation of all appointment data at each period end, allowing for further analysis of missed appointments and the efficacy of the system.
+Originator: Carol
+Comments: [Josh Longworth] Added functional requirement for Q4
+>>>>>>> 793cf964e0c0bacb5b007f2da25e7e54c7a9c307
